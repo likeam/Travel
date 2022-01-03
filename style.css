@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
+}
+
+body {
+  background: #17181a;
+  font-family: "Montserrat", sans-serif;
+}
+
+#logo {
+  color: white;
+  font-family: "Abril Fatface";
+}
